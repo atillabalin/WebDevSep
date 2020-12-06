@@ -8,4 +8,9 @@ if($_POST['process'] ==1){
         echo "Hello!, ".$username. " " .$password;
     }
 }
-?>
+?>cowardcowardcoward
+coward
+cowardcoward
+coward
+coward
+coward atilla balin
